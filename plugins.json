@@ -1,5 +1,27 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/foto.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 18231,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Nodrakorid",
+        "description": "Nodrakorid",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Nodrakorid.cs3",
+        "name": "Nodrakorid"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/Iconn.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
