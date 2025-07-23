@@ -1,8 +1,0 @@
-{
-  "name": "Tess",
-  "description": "Sann Repository",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/CodeSannz/Cloudstream/refs/heads/master/kall.json"
-  ]
-}
