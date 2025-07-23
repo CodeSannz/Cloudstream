@@ -62,7 +62,29 @@
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/AnimeSail.cs3",
         "name": "AnimeSail"
     },
-    {    
+    { 
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/wwfoto.png",
+        "jarFileSize": 58615,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14648,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Anichin",
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Anichinn.jar",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Anichinn.cs3",
+        "name": "Anichin"
+    },
+    {         
        "iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
         "jarFileSize": 58615,
         "apiVersion": 1,
