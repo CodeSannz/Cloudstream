@@ -1,0 +1,61 @@
+[
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSannz/Cloudstream",
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 6,
+        "internalName": "Animekhor",
+        "description": "Include: Donghuaword",
+        "url": "https://raw.githubusercontent.com/CodeSannz/Cloudstream/builds/Animekhor.cs3",
+        "name": "Animekhor"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSannz/Cloudstream",
+        "fileSize": 301572,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "version": 185,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/CodeSannz/Cloudstream/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSannz/Cloudstream",
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 20,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI is a movie streaming service that provides the experience of watching hundreds of Box Office films.",
+        "url": "https://raw.githubusercontent.com/CodeSannz/Cloudstream/builds/KlikXXI.cs3",
+        "name": "KlikXXI"
+    }
+]
