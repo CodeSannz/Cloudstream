@@ -1,5 +1,26 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/icons.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 12055,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz",
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Pusatfilm",
+        "description": "Pusatfilm is a plugin that provides streaming links for movies and TV series.",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Pusatfilm.cs3",
+        "name": "Pusatfilm"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
