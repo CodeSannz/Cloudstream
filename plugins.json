@@ -63,6 +63,28 @@
         "name": "AnimeSail"
     },
     { 
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/wallper.png",
+        "jarFileSize": 58323,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14565,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Auratail",
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Auratailllz.jar",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Auratailllz.cs3",
+        "name": "Auratail"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/wwfoto.png",
         "jarFileSize": 58615,
         "apiVersion": 1,
