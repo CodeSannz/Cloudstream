@@ -84,7 +84,29 @@
         "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/AnimeXin.cs3",
         "name": "AnimeXin"
     },
-    {       
+    {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/anixverse.png",
+        "jarFileSize": 58323,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14565,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Anixverse",
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/AnixVerse.jar",
+        "description": "Anime and Movies",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/AnixVerse.cs3",
+        "name": "Anixverse"
+    },
+    {         
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/wallper.png",
         "jarFileSize": 58323,
         "apiVersion": 1,
