@@ -20,28 +20,6 @@
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Animasu.cs3",
         "name": "Animasu"
     },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/refs/heads/main/verse.png",
-        "jarFileSize": 58323,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 14565,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "CodeSannz"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime"
-        ],
-        "version": 5,
-        "internalName": "Anixverse",
-        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Anixverse.jar",
-        "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Anixverse.cs3",
-        "name": "Anixverse"
-    },
     {        
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.xyz&sz=%size%",
         "apiVersion": 1,
