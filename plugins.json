@@ -20,6 +20,27 @@
         "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Animasu.cs3",
         "name": "Animasu"
     },
+    { 
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/klikxxi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 30912,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 31,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Klikxxiii.cs3",
+        "name": "KlikXXI"
+    },
     {        
         "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.xyz&sz=%size%",
         "apiVersion": 1,
