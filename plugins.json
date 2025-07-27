@@ -174,12 +174,12 @@
        "iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
         "jarFileSize": 58615,
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 14648,
         "status": 1,
-        "language": "zh",
+        "language": "id",
         "authors": [
-            "Phisher98"
+            " CodeSannz"
         ],
         "tvTypes": [
             "AnimeMovie",
@@ -187,10 +187,11 @@
         ],
         "version": 5,
         "internalName": "Animekhor",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.jar",
+        "description": "Include: Donghuaword",        
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.jar",
         "description": "Anime and Movies",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
-        "name": "Animekhor"
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.cs3",
+        "name": "Animekhor"  
     },
     {    
         "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
