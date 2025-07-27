@@ -171,27 +171,26 @@
         "name": "Anichin"
     },
     {         
-       "iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
-        "jarFileSize": 58615,
+        "iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
+        "jarFileSize": 58615,        
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
-        "fileSize": 14648,
+        "fileSize": 14648,        
         "status": 1,
-        "language": "id",
         "authors": [
-            " CodeSannz"
+            "CodeSannz"
         ],
         "tvTypes": [
             "AnimeMovie",
             "Anime"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "Animekhor",
-        "description": "Include: Donghuaword",        
-        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.jar",
-        "description": "Anime and Movies",
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.jar",        
+        "description": "Include: Donghuaword",
         "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.cs3",
-        "name": "Animekhor"  
+        "name": "Animekhor"
+  
     },
     {    
         "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
