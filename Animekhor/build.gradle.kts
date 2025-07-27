@@ -18,9 +18,8 @@ cloudstream {
     authors = listOf("megix")
     status = 1
     tvTypes = listOf(
-        "Movie Terbaru",
-        "Korea Movie",
-        "India Movie",
+        "AnimeMovie",
+        "Anime",
     )
 
     iconUrl = "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg"
