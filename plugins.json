@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/klikxxi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 20,
+        "internalName": "KlikXXI",
+        "description": "KlikXXI is a movie streaming service that provides the experience of watching hundreds of Box Office films.",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Klikxxiii.cs3",
+        "name": "KlikXXI"
+    },
+    {        
         "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
