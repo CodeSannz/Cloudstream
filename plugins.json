@@ -1,5 +1,24 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/Indo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 20,
+        "internalName": "INDOFILM",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Indofilm.cs3",
+        "name": "INDOFILM"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/kawan.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
