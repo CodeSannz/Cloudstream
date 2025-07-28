@@ -15,6 +15,7 @@
         ],
         "version": 20,
         "internalName": "INDOFILM",
+        "description": "Khusus Sinyal Stabil",        
         "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Indofilm.cs3",
         "name": "INDOFILM"
     },
