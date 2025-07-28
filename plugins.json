@@ -1,5 +1,25 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/kawan.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 20,
+        "internalName": "KawanFilm",
+        "description": "KawanFilm merupakan situs website tempat download dan nonton film Movie, TV series terbaru gratis streaming secara online.",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/KawanFilm.cs3",
+        "name": "KawanFilm"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/klikxxi.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
