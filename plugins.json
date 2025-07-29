@@ -100,7 +100,7 @@
         "name": "Animasu"
     },
     {         
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.xyz&sz=%size%",
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/animeindo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
         "fileSize": 15649,
@@ -246,9 +246,9 @@
         ],
         "version": 6,
         "internalName": "Animekhor",
-        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.jar",        
-        "description": "Include: Donghuaword",
-        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhor.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhorr.jar",        
+        "description": "Include: Donghuaworld",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Animekhorr.cs3",
         "name": "Animekhor"
   
     },
