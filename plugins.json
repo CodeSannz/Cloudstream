@@ -20,6 +20,25 @@
         "name": "INDOFILM"
     },
     {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/Indoxxi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Movie Series",
+            "Indonesian Movie"
+        ],
+        "version": 10,
+        "internalName": "INDOXXI",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Indoxxi.cs3",
+        "name": "INDOXXI"
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/Palapa.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
