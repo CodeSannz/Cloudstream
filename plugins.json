@@ -505,7 +505,27 @@
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
         "name": "Extractors"
     },
-    {         
+    {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/Moviebox.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 43823,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 7,
+        "internalName": "MovieBox",
+        "description": "MovieBox Adalah layanan yang menyediakan akses ke film dan acara TV secara gratis.",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/MovieBoxProvider.cs3",
+        "name": "MovieBox"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
         "jarFileSize": 110555,
         "apiVersion": 1,
