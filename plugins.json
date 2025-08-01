@@ -38,7 +38,69 @@
         "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/Indoxxi.cs3",
         "name": "INDOXXI"
     },
-    {  
+    {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/oploverz.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20149,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 31,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 27355,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 39,
+        "internalName": "KuramanimeProvider",
+        "url": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/builds/KuramanimeProvider.cs3",
+        "name": "KuramanimeProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/myflixer.png",
+        "jarFileSize": 86673,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 22637,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TV Series"
+        ],
+        "version": 5,
+        "internalName": "MyFlixer",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MyFlixer.jar",
+        "description": "Watch movies and series from Flixerz",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MyFlixer.cs3",
+        "name": "MyFlixer" 
+    },
+    {        
         "iconUrl": "https://raw.githubusercontent.com/CodeAxella/Cloudstream/main/Moviebox.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
